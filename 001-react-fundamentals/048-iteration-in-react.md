@@ -12,7 +12,7 @@ Understand:
 - Why `key` is required  
 - How to handle lists, objects, nested loops, and conditions  
 
-(Reference content: :contentReference[oaicite:0]{index=0})
+
 
 ---
 
